@@ -10,7 +10,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left">
-    <a href="https://www.java.com" target="_blank"> <img src="https://user-images.githubusercontent.com/79692432/171206535-04e4cd76-d17d-4736-ad65-5d7f2a8ee138.png"/> </a>
+    <a href="https://www.java.com" target="_blank"> <img src="https://user-images.githubusercontent.com/79692432/171206535-04e4cd76-d17d-4736-ad65-5d7f2a8ee138.png](https://img.icons8.com/color/344/amazon-web-services.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
