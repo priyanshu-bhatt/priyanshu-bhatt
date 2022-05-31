@@ -1,9 +1,7 @@
 ### Hi there 👋
-
-<br>###'m a Husband, Father, Developer, and Teacher!!</br>
-<br>###🔭 Check out my VS Code course: Become A VS Code SuperHero!!</br>
-###🌱 I’m currently learning everything 🤣
-###👯 I’m looking to collaborate with other content creators
-###🥅 2022 Goals: Learn more about web3
-###⚡ Fun fact: I love to draw and play guitar / drums
-###😻 Check out the NFT collection I created: CodeCats
+<br>### I'm a Computer Science Engineering Student</br>
+<br> Worked as A technology Blog Freelancer</br>
+<br>###🔭 Interested in Cloud-Native Technologies and Devops</br>
+###🌱<br> I love writting Blogs post about various Technologies 🤣</br>
+###<br>🥅 2022 Goals: Learn more about Open Source and contribute</br>
+###<br>⚡ Fun fact: I am a Part time  guitar teacher</br>
