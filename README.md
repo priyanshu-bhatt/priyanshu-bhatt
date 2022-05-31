@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-priyanshu-bhatt/priyanshu-bhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ###'m a Husband, Father, Developer, and Teacher!!
 ###🔭 Check out my VS Code course: Become A VS Code SuperHero!!
 ###🌱 I’m currently learning everything 🤣
