@@ -1,5 +1,5 @@
 ### Hi there 👋
-<br>### I'm a Computer Science Engineering Student</br>
+### I'm a Computer Science Engineering Student
 <br> Worked as A technology Blog Freelancer</br>
 <br>###🔭 Interested in Cloud-Native Technologies and Devops</br>
 ###🌱<br> I love writting Blogs post about various Technologies 🤣</br>
