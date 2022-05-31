@@ -38,9 +38,7 @@
 <p align="left">
 
 <a href = "linkedin.com/in/priyanshubhatt/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://priyanshubhatt18.medium.com"><img src="https://user-images.githubusercontent.com/50/171211208-434b6ec2-4c57-42f5-a862-c5a9537a71ed.png"/></a>
-<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://priyanshubhatt18.medium.com"><img src="https://img.icons8.com/ios-glyphs/30/undefined/medium-logo.png"/)/></a>
 
 </p>
 
@@ -48,4 +46,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/priyanshu-bhatt28?tab=followers"><img src="https://img.shields.io/github/followers/priyanshu-bhatt?label=Followers&style=social" alt="GitHub Badge"></a>
