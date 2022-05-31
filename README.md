@@ -44,6 +44,6 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+    <img src="https://komarev.com/ghpvc/?username=priyanshu-bhatt">
 </a>
-<a href="https://github.com/priyanshu-bhatt28?tab=followers"><img src="https://img.shields.io/github/followers/priyanshu-bhatt?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/priyanshu-bhatt?tab=followers"><img src="https://img.shields.io/github/followers/priyanshu-bhatt?label=Followers&style=social" alt="GitHub Badge"></a>
