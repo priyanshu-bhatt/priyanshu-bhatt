@@ -37,13 +37,8 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "linkedin.com/in/priyanshubhatt/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "linkedin.com/in/priyanshubhatt/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/)/></a>
 <a href = "https://priyanshubhatt18.medium.com"><img src="https://img.icons8.com/ios-glyphs/30/undefined/medium-logo.png"/)/></a>
 
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=priyanshu-bhatt">
-</a>
-<a href="https://github.com/priyanshu-bhatt?tab=followers"><img src="https://img.shields.io/github/followers/priyanshu-bhatt?label=Followers&style=social" alt="GitHub Badge"></a>
