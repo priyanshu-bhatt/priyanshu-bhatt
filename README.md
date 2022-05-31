@@ -38,6 +38,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/priyanshu-bhatt/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/priyanshu-bhatt/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 </p>
 
