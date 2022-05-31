@@ -9,19 +9,7 @@
 
 ## 🚀 Languages and Tools:
 
-<p dir="auto"><code><a target="_blank" rel="noopener noreferrer" href="https://repository-images.githubusercontent.com/249747965/36432d80-6e51-11ea-8125-3b459ef6adc4"><img width="34px" src="https://repository-images.githubusercontent.com/249747965/36432d80-6e51-11ea-8125-3b459ef6adc4" style="max-width: 100%;"></a></code>
-<code><a target="_blank" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"><img width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"><img width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"><img width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"><img width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://avatars.githubusercontent.com/u/3299148?s=200&amp;v=4"><img width="34px" src="https://avatars.githubusercontent.com/u/3299148?s=200&amp;v=4" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://avatars.githubusercontent.com/u/2810941?s=200&amp;v=4"><img width="34px" src="https://avatars.githubusercontent.com/u/2810941?s=200&amp;v=4" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://avatars.githubusercontent.com/u/33972111?s=200&amp;v=4"><img width="34px" src="https://avatars.githubusercontent.com/u/33972111?s=200&amp;v=4" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://avatars.githubusercontent.com/u/1507452?s=200&amp;v=4"><img width="34px" src="https://avatars.githubusercontent.com/u/1507452?s=200&amp;v=4" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://avatars.githubusercontent.com/u/5429470?s=200&amp;v=4"><img width="34px" src="https://avatars.githubusercontent.com/u/5429470?s=200&amp;v=4" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://avatars.githubusercontent.com/u/13629408?s=200&amp;v=4"><img width="34px" src="https://avatars.githubusercontent.com/u/13629408?s=200&amp;v=4" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://avatars.githubusercontent.com/u/792337?s=200&amp;v=4"><img width="34px" src="https://avatars.githubusercontent.com/u/792337?s=200&amp;v=4" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://avatars.githubusercontent.com/u/107424?s=200&amp;v=4"><img width="34px" src="https://avatars.githubusercontent.com/u/107424?s=200&amp;v=4" style="max-width: 100%;"></a></code></p>
+
 
 <p align="center">
     <a href="https://github.com/priyanshu-bhatt/github-readme-streak-stats">
@@ -41,7 +29,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SubhamRaoniar28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/priyanshu-bhatt/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=priyanshu-bhatt&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -49,8 +37,8 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "linkedin.com/in/priyanshubhatt/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://priyanshubhatt18.medium.com"><img src="https://img.icons8.com/fluent/48/000000/medium.png"/></a>
 <a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
