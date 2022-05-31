@@ -1,5 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Priyanshu</h1>
-## Hi there, I'm Priyanshu 👋
+<h1 align="left">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Priyanshu</h1>
 
 - 👨🏻‍💻 I'm a Computer Science Engineering Student<br>
 - 🖊️ Worked as a Tech Blog Writer(Freelance) </br>
