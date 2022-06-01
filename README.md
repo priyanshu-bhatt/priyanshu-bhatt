@@ -37,8 +37,8 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/priyanshu-bhatt/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.linkedin.com/in/priyanshu-bhatt/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/priyanshu-bhatt/"><img width="34px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/priyanshu-bhatt/"><img width="34px" src="https://user-images.githubusercontent.com/79692432/171364138-ab002d42-8683-4eb8-8b6e-89b9c0e3d287.png"/></a>
 
 </p>
 
