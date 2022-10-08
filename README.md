@@ -7,7 +7,8 @@
 - 🥅 2022 Goals: Learn more about Open Source and contribute<br>
 - 🎸 Fun fact: I am a Part time  guitar teacher<br>
 <p align="left"> <a href="https://github.com/priyanshu-bhatt/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshu-bhatt" alt="priyanshu" /></a> </p>
-## 🚀 Languages and Tools:
+
+<h2>🚀 Languages and Tools:</h2>
 
 <p dir="auto"><code><a target="_blank" rel="noopener noreferrer" href="https://avatars.githubusercontent.com/u/3299148?s=200&amp;v=4"><img width="40px" src="https://user-images.githubusercontent.com/79692432/171368040-22b20deb-15cb-40e8-a27c-2427001adcd6.png" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"><img width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" style="max-width: 100%;"></a></code>
